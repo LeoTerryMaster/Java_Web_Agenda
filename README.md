@@ -14,11 +14,24 @@ Documetação do projeto<br/>
 <br>
 <h1></h1>
 <br>
-Criar contato<br>
-Editar contato<br>
-Excluir contato<br>
-Relatório em pdf dos contato<br>
-
+<div>
+   <h1> Desenvolvimento:</h1>
+    <ul>
+        <li>Java 19</li>
+        <li>Tomcat 9</li>
+        <li>MariaDB</li>
+        <li>iTexPdf</li>
+        <li>Html /Css /Js</li>
+    </ul>
+    <br>
+    <h1></h1>
+    <ol>
+    <li>Criar contato</li>
+    <li>Editar contato</li>
+    <li>Excluir contato</li>
+    <li>Relatório em pdf dos contato</li>
+    </ol>
+</div>
 <br>
 <h1></h1>
 Boas práticas de programação.
